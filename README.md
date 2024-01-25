@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a mechanical engineering student with a stronger than average comp sci background and an affinity for starting projects and never finishing them.
+
 <!--
 **HarrierPigeon/HarrierPigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
